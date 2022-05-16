@@ -295,5 +295,6 @@ int main() {
     nLevel->helperToPrintData();
 
 
+    nLevel->helperToPrintData();
 
 }
