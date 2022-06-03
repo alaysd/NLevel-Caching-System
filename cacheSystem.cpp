@@ -227,6 +227,10 @@ public:
         cout << "************************" << endl;
     }
 
+    void workingFunc1() {
+        
+    }
+
 
 };
 
