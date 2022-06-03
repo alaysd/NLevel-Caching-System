@@ -227,6 +227,17 @@ public:
         cout << "************************" << endl;
     }
 
+    void mainFunc1() {
+
+    }
+
+    void mainFunc2() {
+
+    }
+
+    void mainFunc3() {
+        
+    }
 
 };
 
