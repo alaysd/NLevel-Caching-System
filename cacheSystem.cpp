@@ -231,14 +231,6 @@ public:
 
     }
 
-    void mainFunc2() {
-
-    }
-
-    void mainFunc3() {
-        
-    }
-
 };
 
 
